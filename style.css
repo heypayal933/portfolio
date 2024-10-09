@@ -255,7 +255,7 @@ nav .fa-solid
     display: none;
 }
 /*-----------------------css for small screen-------------------------*/
-@media only screen and (max-width: 1600px 700px)
+@media only screen and (max-width: 700px)
 {
     #header
     {
