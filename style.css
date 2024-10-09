@@ -204,10 +204,17 @@ nav ul li a:hover::after
 }
 .btn.btn2
 {
-    display: inline-block;
+     display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
     color: #fff;
-    background-color: #000000;
-    margin-top: 25px;
+    background-color: #4e4848;
+    margin-top: 18px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
 }
 .btn.btn2:hover
 {
@@ -329,6 +336,6 @@ nav .fa-solid
 #msg
 {
     color: #61b752;
-    margin-top: -40px;
+    margin-top: 10px;
     display: block;
 }
