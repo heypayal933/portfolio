@@ -265,6 +265,10 @@ nav .fa-solid
 /*-----------------------css for small screen-------------------------*/
 @media (max-width: 600px)
 {
+    .logo
+    {
+        width: 100px
+    }
     #header
     {
         background-image: url(https://github.com/heypayal933/portfolio/blob/main/bgs.jpg?raw=true);
