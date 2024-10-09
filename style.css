@@ -267,11 +267,13 @@ nav .fa-solid
 {
     .logo
     {
-        width: 100px
+        margin-left: 100px;
+        width: 100px;
     }
     #header
     {
         background-image: url(https://github.com/heypayal933/portfolio/blob/main/bgs.jpg?raw=true);
+        margin-top: 100px;
     }
     .header-text
     {
