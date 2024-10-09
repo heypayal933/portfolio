@@ -17,7 +17,7 @@ body
 {
     width: 100%;
     height: 100vh;
-    background-image: url(C:/Users/lenovo/Downloads/personal-portfolio-img/images/bg.jpg);
+    background-image: url(bg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -361,7 +361,7 @@ nav .fa-solid
 {
     #header
     {
-        background-image: url(C:/Users/lenovo/Downloads/personal-portfolio-img/images/bgs.jpg);
+        background-image: url(bgs.jpg);
     }
     .header-text
     {
