@@ -186,7 +186,7 @@ nav ul li a:hover::after
 /*-------------------------contact--------------------*/
 .contact-left
 {
-    flex-basis: 35%;
+    flex-basis: 30%;
 }
 .contact-right
 {
@@ -202,17 +202,17 @@ nav ul li a:hover::after
     margin-right: 15px;
     font-size: 25px;
 }
-
 .btn.btn2
 {
     display: inline-block;
-    color: hsl(0, 0%, 100%);
+    color: #fff;
     background-color: #000000;
-
+    margin-top: 18px;
 }
 .btn.btn2:hover
 {
     background: #ff004f;
+    transition: 0.5s;
 }
 .contact-right form
 {
@@ -235,16 +235,17 @@ form .btn2
     padding: 14px 60px;
     font-size: 18px;
     margin-top: 0px;
+    margin-bottom: 10px;
     cursor: pointer; 
 }
 .bottom_margin
 {
     width: 100%;
     text-align: center;
-    padding: 15px 0;
+    padding: 18px 0;
     background: #262626;
     font-weight: 300;
-    margin-top: 0px; 
+    margin-top: 40px; 
 }
 .bottom_margin i
 {
