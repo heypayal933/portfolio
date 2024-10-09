@@ -265,15 +265,9 @@ nav .fa-solid
 /*-----------------------css for small screen-------------------------*/
 @media (max-width: 600px)
 {
-    .logo
-    {
-        margin-left: 200px;
-        width: 100px;
-    }
     #header
     {
         background-image: url(https://github.com/heypayal933/portfolio/blob/main/bgs.jpg?raw=true);
-        margin-top: 10px;
     }
     .header-text
     {
